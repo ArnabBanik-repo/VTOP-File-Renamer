@@ -13,5 +13,9 @@ Donwload the renamer file from /dist folder
 - Run the .exe file, sit back and relax
 - Your downloaded course materials will be handled automatically
 
+## Recommended Use
+- Pin the executable to your taskbar
+- Once you download your zip file, just click the pinned executable on your taskbar
+
 ## Contributors
 - Arnab Banik
