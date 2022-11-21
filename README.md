@@ -14,14 +14,15 @@ Download the renamer.py file, and run ```python renamer.py``` in your terminal
 
 ## How To Use
 <img src="https://github.com/ArnabBanik-repo/VTOP-File-Renamer/blob/main/build/renamer/ss.png" width="180"/>
-<div>
-- Download 'All Course Materials' from VTOP
-- Run the .exe file, sit back and relax
-- Your downloaded course materials will be handled automatically
-</div>
-## Recommended Use
-- Pin the executable to your taskbar
-- Once you download your zip file, just click the pinned executable on your taskbar
-
-## Contributors
-- Arnab Banik
+<ul>
+<li>Download 'All Course Materials' from VTOP</li>
+<li>Run the .exe file, sit back and relax</li>
+<li>Your downloaded course materials will be handled automatically</li>
+</ul>
+<h2>Recommended Use</h2>
+<ul>
+  <li>Pin the executable to your taskbar</li>
+  <li>Once you download your zip file, just click the pinned executable on your taskbar</li>
+</ul>
+<h2> Contributors </h2>
+<p>Arnab Banik</p>
