@@ -6,7 +6,9 @@ VTOP-File-Runner is here to make sure that you don't have to break your head fig
 ### Windows
 Donwload the renamer.exe file from releases or /dist folder
 ### Linux
-Donwload the renamer file from releases or /dist folder
+Donwload the renamer file from releases or /dist folder  
+  
+Note: Keep the file when prompted as dangerous
 
 ## How To Use
 - Download 'All Course Materials' from VTOP
