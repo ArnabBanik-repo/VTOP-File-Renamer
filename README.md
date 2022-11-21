@@ -14,7 +14,7 @@ Download the renamer.py file, and run ```python renamer.py``` in your terminal
 
 ## How To Use
 - Download 'All Course Materials' from VTOP
-![Screenshot](https://github.com/ArnabBanik-repo/VTOP-File-Renamer/blob/main/build/renamer/ss.png)
+![Screenshot](https://github.com/ArnabBanik-repo/VTOP-File-Renamer/blob/main/build/renamer/ss.png | width=100)
 - Run the .exe file, sit back and relax
 - Your downloaded course materials will be handled automatically
 
