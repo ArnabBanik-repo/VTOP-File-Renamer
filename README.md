@@ -4,9 +4,11 @@ VTOP-File-Runner is here to make sure that you don't have to break your head fig
 
 ## Installation
 ### Windows
-Donwload the renamer.exe file from releases or /dist folder
+Download the renamer.exe file from releases or dist folder
 ### Linux
-Donwload the renamer file from releases or /dist folder  
+Download the renamer file from releases or dist folder  
+### MAC
+Download the renamer.py file, and run ```python renamer.py``` in your terminal
   
 **Note: Keep the file when prompted as dangerous, it's a false positive from Windows Defender**
 
