@@ -8,7 +8,7 @@ Donwload the renamer.exe file from releases or /dist folder
 ### Linux
 Donwload the renamer file from releases or /dist folder  
   
-Note: Keep the file when prompted as dangerous
+**Note: Keep the file when prompted as dangerous, it's a false positive from Windows Defender**
 
 ## How To Use
 - Download 'All Course Materials' from VTOP
