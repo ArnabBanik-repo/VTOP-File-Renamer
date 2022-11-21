@@ -13,11 +13,12 @@ Download the renamer.py file, and run ```python renamer.py``` in your terminal
 **Note: Keep the file when prompted as dangerous, it's a false positive from Windows Defender**
 
 ## How To Use
-<img src="https://github.com/ArnabBanik-repo/VTOP-File-Renamer/blob/main/build/renamer/ss.png" width="150" />
+<img src="https://github.com/ArnabBanik-repo/VTOP-File-Renamer/blob/main/build/renamer/ss.png" width="180"/>
+<div>
 - Download 'All Course Materials' from VTOP
 - Run the .exe file, sit back and relax
 - Your downloaded course materials will be handled automatically
-
+</div>
 ## Recommended Use
 - Pin the executable to your taskbar
 - Once you download your zip file, just click the pinned executable on your taskbar
