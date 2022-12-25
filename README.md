@@ -2,10 +2,6 @@
 Tired of bad file names after donwloading all course materials from VTOP? :face_with_spiral_eyes:  
 VTOP-File-Runner is here to make sure that you don't have to break your head figuring out what topic that .ppt file covers :partying_face:	
 
-
-https://user-images.githubusercontent.com/84622873/209461734-f6adb9b0-0216-4a50-bcb1-8cde20a245a1.mp4
-
-
 ## Installation
 ### Windows
 Download the renamer.exe file from releases or dist folder
@@ -23,6 +19,9 @@ Download the renamer.py file, and run ```python renamer.py``` in your terminal
 <li>Run the .exe file, sit back and relax</li>
 <li>Your downloaded course materials will be handled automatically</li>
 </ul>
+
+https://user-images.githubusercontent.com/84622873/209461734-f6adb9b0-0216-4a50-bcb1-8cde20a245a1.mp4
+
 <h2>Recommended Use</h2>
 <ul>
   <li>Pin the executable to your taskbar</li>
